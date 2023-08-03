@@ -35,8 +35,8 @@ Execute as follows (being in minijava_example folder):
 java [Main] [file1] [file2] ... [fileN]
 
 Execute examples (being in minijava_example folder):
-java Main  ./inputs/UseArgs.java 
-java Main ./inputs/TreeVisitor.java Example.java 
+java Main  ./inputs/UseArgs.java <br /> 
+java Main ./inputs/TreeVisitor.java Example.java <br /> 
 
 The results are printed in the standard output and there are separators for each file, class, class methods, class variables
 
