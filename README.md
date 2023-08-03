@@ -40,4 +40,4 @@ java Main ./inputs/TreeVisitor.java Example.java <br />
 
 The results are printed in the standard output and there are separators for each file, class, class methods, class variables
 
-This project was Implemented for Compilers class in 2022  Department of Informatics and Telecommunications of the University of Athens . Proffesor: Yannis Smaragdakis
+This project was Implemented for Compilers class in 2022  Department of Informatics and Telecommunications of the University of Athens . Professor: Yannis Smaragdakis
