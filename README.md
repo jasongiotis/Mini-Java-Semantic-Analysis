@@ -34,7 +34,7 @@ Use make clean to clean the binaries and .class files
 Execute as follows (being in minijava_example folder):
 java [Main] [file1] [file2] ... [fileN]
 
-Execute examples (being in minijava_example folder):
+Execute examples (being in minijava_example folder):<br /> 
 java Main  ./inputs/UseArgs.java <br /> 
 java Main ./inputs/TreeVisitor.java Example.java <br /> 
 
